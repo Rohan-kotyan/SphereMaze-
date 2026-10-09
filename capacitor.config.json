@@ -1,0 +1,9 @@
+
+{
+  "appId": "com.stellixstudios.spheremaze",
+  "appName": "SphereMaze",
+  "webDir": ".",
+  "server": {
+    "androidScheme": "https"
+  }
+}
